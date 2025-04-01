@@ -1,5 +1,5 @@
 # Introduction
-"A fun and interactive digital Blackjack game developed during my exchange program. Compete against the dealer, implement strategies, and experience the thrill of 21 in this terminal-based game! Perfect for beginners and card game enthusiasts. For a full working version, copy paste all parts together, enjoy!"
+A fun and interactive digital Blackjack game developed during my exchange program. Compete against the dealer, implement strategies, and experience the thrill of 21 in this terminal-based game! Perfect for beginners and card game enthusiasts. For a full working version, copy paste all parts together, enjoy!
 
 # Libraries we need for the code to run
     import math
